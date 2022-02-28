@@ -9,7 +9,7 @@
 /* Register Form */
 /*---------------------------------------*/
 body {
-  background:linear-gradient(to right, #78a7ba 0%, #385D6C 50%, #78a7ba 99%);
+  background:linear-gradient(to right, #f36828 0%, #ffffff 50%, #048d22 99%);
   text-transform: uppercase;
   text-size-adjust:inherit;
 }
@@ -45,7 +45,7 @@ body {
 }
 
 .form-body .label-title {
-  color:#1BBA93;
+  color:#1b45ba;
   font-size: 17px;
   font-weight: bold;
 }
@@ -95,7 +95,7 @@ input[type="file"] {
 }
 
 .my-2{
-    color: #1BBA93;
+    color: #002ead;
 }
 
 
